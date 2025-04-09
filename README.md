@@ -1,4 +1,4 @@
-# arenas0107.github.io
+
 
 # Análisis de Preferencias Musicales en Springfield y Shelbyville
 
@@ -45,6 +45,3 @@ Es importante tener en cuenta que las conclusiones a nivel de ciudad basadas en 
 Sería beneficioso realizar pruebas estadísticas más rigurosas en el futuro para proporcionar resultados más precisos y cuantitativos. Esto podría llevar a ideas más refinadas y fiables sobre el comportamiento y las preferencias de los usuarios.
 
 > **Nota**: En futuros proyectos, planeamos estudiar las pruebas de hipótesis en el sprint sobre análisis estadístico de datos.
-```
-
-Este texto está completamente en formato Markdown, listo para ser usado en un archivo `README.md` en GitHub. ¿Es este el formato que buscabas? 😊
