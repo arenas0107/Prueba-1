@@ -1,6 +1,5 @@
-¡Entendido! A continuación, el texto del **Sprint 1** está adaptado al formato Markdown:
+# arenas0107.github.io
 
-```markdown
 # Análisis de Preferencias Musicales en Springfield y Shelbyville
 
 ## Descripción del Proyecto
